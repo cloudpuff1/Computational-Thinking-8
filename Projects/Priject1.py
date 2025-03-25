@@ -7,6 +7,7 @@ stage = StageClass()
 
 stage.set_background("winter")
 
+
 q1=codesters.Square(100,100,200,'thistle')
 q2=codesters.Square(-100,100,200,'gold')
 q3=codesters.Square(-100,-100,200,'crimson')
