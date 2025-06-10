@@ -47,7 +47,7 @@ for i in range(6):
     
 t.goto(-250,149.86)
 
-# stripe 
+# blue rectangle 
 t.color("blue")
 t.begin_fill()
 t.forward(240)
